@@ -6,5 +6,5 @@
 ![SQL](https://img.shields.io/badge/SQL-Database%20Language-blue?style=for-the-badge&logo=postgresql&logo)
 
 📫 **Entre em contato:**
-- [LinkedIn](https://www.linkedin.com/in/thiago-vivian-ribeiro-44b11991/))
+- [LinkedIn](https://www.linkedin.com/in/thiago-vivian-ribeiro-44b11991/)
 - [E-mail](thiagovr93@hotmail.com)
